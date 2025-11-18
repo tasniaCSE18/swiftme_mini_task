@@ -93,7 +93,7 @@ The API will be available at `http://localhost:8000`
 **Response**:
 ```json
 {
-  "proposal": "Hi there,\n\nI noticed you're looking for...",
+  "proposal": "Hello,\n\n I saw that you're seeking a Chrome extension developer experienced in AI integration. With five years in full-stack development and direct involvement in creating an AI chatbot, I'm certain I can provide precisely what you're after. My background includes working with Chrome APIs and incorporating OpenAI, which fits your needs.\n\n Regards",
   "confidence_score": 0.85,
   "matched_skills": ["JavaScript", "AI/ML", "OpenAI"]
 }
